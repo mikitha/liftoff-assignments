@@ -20,13 +20,13 @@ In the tabletop game Dungeons & Dragons, one of the most complicated mechanics o
 - Player View: During a battle scenario, players can access the Player View (via phone, tablet, or pc) and see the list of combatants, whose turn it currently is, and information about the character/monster who is currently taking their turn. The DM has the option to hide certain information from the Player View during monster creation (because it’s fun to have secrets sometimes). This would also be a handy way to display that information on a central screen (television, monitor) for the whole table to see together. 
 
 ### Technologies
-C#: to build web app
-Razr: for building characters/monsters with inputs
-Bootstrap?: for responsive layout on mobile
-Javascript: for player view updates
-SQL: for storing characters/monsters to user catalogs
+- C#: to build web app
+- Razr: for building characters/monsters with inputs
+- Bootstrap?: for responsive layout on mobile
+- Javascript: for player view updates
+- SQL: for storing characters/monsters to user catalogs
 
 ### What I'll Have to Learn
--Cloud storage/persistence with SQL
+- Cloud storage/persistence with SQL
 ### Project Tracker
 https://trello.com/b/YyVyGLB4/dd-battle-tracker
